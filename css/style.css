@@ -12,7 +12,8 @@
 body {
 	width: 60vw;
 	margin: 0 auto;
-	background: var(--theme-color-secondary);
+	background: linear-gradient(0deg, var(--theme-color-secondary), var(--theme-color))
+
 }
 
 /*  Header and nav */
@@ -40,6 +41,7 @@ button:last-child {
 main {
 	background: var(--theme-color);
 	padding: 10px 20px 20px;
+
 }
 
 h1 {

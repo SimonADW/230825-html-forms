@@ -63,13 +63,13 @@
                 <li>
                     <label>
                         <span>First name*</span>
-                        <input type="text" name="registration" id="first-name" placeholder="John" required>
+                        <input type="text" name="registration" id="first-name" placeholder="John" pattern="^[a-zA-Z\s]+" required>
                     </label>
                 </li>
                 <li>
                     <label>
                     <span>Last name*</span>
-                    <input type="text" name="registration" id="last-name" placeholder="Doe" required>
+                    <input type="text" name="registration" id="last-name" placeholder="Doe" pattern="^[a-zA-Z\s]+" required>
                     </label>
                 </li>
                 <li>
@@ -81,7 +81,7 @@
                 <li>
                     <label>
                         <span>Phone number</span>
-                        <input type="tel" name="registration" id="phone-number" placeholder="555-555" pattern="0-9">
+                        <input type="tel" name="registration" id="phone-number" placeholder="555-555" pattern="^\+?[1-9][0-9]{7,14}$">
                     </label>
                 </li>
                 <li>

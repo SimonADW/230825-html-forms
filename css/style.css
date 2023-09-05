@@ -12,21 +12,28 @@
 body {
 	width: 60vw;
 	margin: 0 auto;
-	background: linear-gradient(0deg, var(--theme-color-secondary), var(--theme-color))
-
+	background: linear-gradient(180deg, var(--theme-color-secondary), var(--theme-color));
+	position: relative;
 }
 
 /*  Header and nav */
 
 header {
+	display: flex;
+	align-items: center;
 	margin-bottom: 20px;
+	position: sticky;
+	top:0; 
 }
 
-nav {
-	padding-top: 10px;
+nav {	
+	/* padding-top: 10px; */
 	display: flex;
+	align-items: center;
 	width: 100%;
+	height: 2.5rem;
 	gap: 5px;
+	background: var(--theme-color-secondary);
 }
 
 button:hover {

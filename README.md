@@ -22,8 +22,8 @@ Contributors:
 	* Git Hub-Repos: [SimonADW](https://github.com/SimonADW/230825-html-forms)
 
 ### Related Links
-[Netlify - Semesterassignment1 - Forms](https://aquamarine-bunny-471711.netlify.app)  
-[GitHub repo](https://github.com/SimonADW/230825-html-forms)
+Netlify: [Semesterassignment1 - Forms](https://aquamarine-bunny-471711.netlify.app)  
+GitHub: [Forms repository](https://github.com/SimonADW/230825-html-forms)
 
 [Simon Winter](https://github.com/SimonADW)
 

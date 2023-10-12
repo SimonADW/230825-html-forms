@@ -19,8 +19,11 @@ Your´re probably best of asking someone on the [World Wide Web](www.google.com)
 Contributors:  
 * Author: Simon Winter  
 	* E-mail: simon-winter@outlook.com
-	* Git Hub: [SimonADW](https://github.com/SimonADW)
+	* Git Hub-Repos: [SimonADW](https://github.com/SimonADW/230825-html-forms)
 
+### Related Links
+[Netlify - Semesterassignment1 - Forms](https://aquamarine-bunny-471711.netlify.app)  
+[GitHub repo](https://github.com/SimonADW/230825-html-forms)
 
 [Simon Winter](https://github.com/SimonADW)
 
